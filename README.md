@@ -1,4 +1,4 @@
-# Orientação a Objetos 📋
+# Minhas anotações sobre o curso ```Orientação a Objetos``` 📋
 
 ## Atividade prática: Conta Bancária
 
