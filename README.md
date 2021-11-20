@@ -1,4 +1,4 @@
-# Orientação a Objetos
+# Orientação a Objetos 📋
 
 ## Atividade prática: Conta Bancária
 
@@ -9,7 +9,7 @@ Nesta atividade, testamos os conceitos de `Orientação a Objetos` simulando a c
 3. Dentro de `ContaBancaria`, crie os métodos `sacar` e `depositar`;
 4. Crie uma classe-filha chamada `ContaCorrente` que herda todos esses parâmetros e ainda possua o parâmetro `cartaoCredito`;
 5. Ainda em `ContaCorrente`, construa o getter e o setter de `cartaoCredito`;
-6. Ainda em `ContaCorrente`, faça com que o `tipo` seja 'conta corrente' por padrão;
+6. Ainda em `ContaCorrente`, faça com que o `tipo` seja `conta corrente` por padrão;
 7. Crie uma classe-filha chamada `ContaPoupanca` que herda todos os parâmetros de `ContaBancaria`;
 8. Crie uma classe-filha chamada `ContaUniversitaria` que herda todos os parâmetros de `ContaBancaria`;
 9. Faça com que o método `saque` de `ContaUniversitaria` apenas seja capaz de sacar valores **menores que 500 reais**.
